@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "54854471720",
+    "firebase_url": "https://gestionpersonal-73b54.firebaseio.com",
+    "project_id": "gestionpersonal-73b54",
+    "storage_bucket": "gestionpersonal-73b54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54854471720:android:85733fd9ba80eba8ff651d",
+        "android_client_info": {
+          "package_name": "com.example.logistica_reparto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtx2j8a7Of1ip6cMBl6ib459yHArACU78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54854471720:android:30014c8f5cc5d234ff651d",
+        "android_client_info": {
+          "package_name": "com.example.logisticareparto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtx2j8a7Of1ip6cMBl6ib459yHArACU78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
